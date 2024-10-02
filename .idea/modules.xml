@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Bai1RemoveDuplicatesfromSortArray/Bai1RemoveDuplicatesfromSortArray.iml" filepath="$PROJECT_DIR$/Bai1RemoveDuplicatesfromSortArray/Bai1RemoveDuplicatesfromSortArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/CTDL&amp;GT.iml" filepath="$PROJECT_DIR$/.idea/CTDL&amp;GT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TwoSumBai2/TwoSumBai2.iml" filepath="$PROJECT_DIR$/TwoSumBai2/TwoSumBai2.iml" />
     </modules>
   </component>
 </project>

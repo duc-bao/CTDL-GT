@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/MinimumStringLength/MinimumStringLength.iml" filepath="$PROJECT_DIR$/MinimumStringLength/MinimumStringLength.iml" />
       <module fileurl="file://$PROJECT_DIR$/MinimunDepthOfBinaryTree/MinimunDepthOfBinaryTree.iml" filepath="$PROJECT_DIR$/MinimunDepthOfBinaryTree/MinimunDepthOfBinaryTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/PathSum/PathSum.iml" filepath="$PROJECT_DIR$/PathSum/PathSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RankTransform/RankTransform.iml" filepath="$PROJECT_DIR$/RankTransform/RankTransform.iml" />
       <module fileurl="file://$PROJECT_DIR$/SameTree/SameTree.iml" filepath="$PROJECT_DIR$/SameTree/SameTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/TwoSumBai2/TwoSumBai2.iml" filepath="$PROJECT_DIR$/TwoSumBai2/TwoSumBai2.iml" />
     </modules>

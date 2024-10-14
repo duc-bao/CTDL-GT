@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/IsomorphicString/IsomorphicString.iml" filepath="$PROJECT_DIR$/IsomorphicString/IsomorphicString.iml" />
       <module fileurl="file://$PROJECT_DIR$/ListIntersection/ListIntersection.iml" filepath="$PROJECT_DIR$/ListIntersection/ListIntersection.iml" />
       <module fileurl="file://$PROJECT_DIR$/LongestCommonPrefix/LongestCommonPrefix.iml" filepath="$PROJECT_DIR$/LongestCommonPrefix/LongestCommonPrefix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MergeSortList/MergeSortList.iml" filepath="$PROJECT_DIR$/MergeSortList/MergeSortList.iml" />
       <module fileurl="file://$PROJECT_DIR$/MinimumStringLength/MinimumStringLength.iml" filepath="$PROJECT_DIR$/MinimumStringLength/MinimumStringLength.iml" />
       <module fileurl="file://$PROJECT_DIR$/MinimunDepthOfBinaryTree/MinimunDepthOfBinaryTree.iml" filepath="$PROJECT_DIR$/MinimunDepthOfBinaryTree/MinimunDepthOfBinaryTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/PathSum/PathSum.iml" filepath="$PROJECT_DIR$/PathSum/PathSum.iml" />
